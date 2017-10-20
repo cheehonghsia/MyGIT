@@ -1,6 +1,7 @@
 package com.chh.xia.MyGIT;
 
 /**
+ * @author Chee-Hong Hsia
  * Hello world!
  *
  */
