@@ -1,7 +1,7 @@
 package com.chh.xia.MyGIT;
 
 /**
- * @author Chee-Hong Hsia Hello world!
+ * @author Chee-Hong Hsia
  *
  */
 public class App {
