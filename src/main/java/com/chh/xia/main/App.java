@@ -1,4 +1,4 @@
-package com.chh.xia.MyGIT;
+package com.chh.xia.main;
 
 /**
  * @author Chee-Hong Hsia

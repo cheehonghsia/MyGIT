@@ -1,4 +1,4 @@
-package com.chh.xia.MyGIT;
+package com.chh.xia.main;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
