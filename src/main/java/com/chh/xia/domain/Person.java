@@ -1,5 +1,8 @@
 package com.chh.xia.domain;
 
+/**
+ * Class representing a Person.
+ */
 public class Person {
 
 	private int id;
