@@ -26,9 +26,9 @@ public class AppTest extends TestCase {
 	}
 
 	/**
-	 * Rigourous Test
+	 * Super test.
 	 */
 	public void testApp() {
-		assertTrue(true);
+		assertTrue(false);
 	}
 }
