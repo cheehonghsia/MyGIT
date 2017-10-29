@@ -11,19 +11,19 @@ import com.chh.xia.calculateservice.CalculateService;
 
 public class RootControllerTest {
 	
-	private static RootController root;
+	private static RootController rootController;
 	private static CalculateService calculateService;
 
 	@BeforeClass
 	public static void initiateCalculateService() {
-		root = new RootController();
+		rootController = new RootController();
 		calculateService = mock(CalculateService.class);
 		when(calculateService.addTwoNumbers(1, 2)).thenReturn(3);
 	}
 
 	@Test
 	public void testAddingFunctionality() {
-		int result = root.someLogic(1, 2);
+		int result = rootController.someLogic(1, 2);
 		assertTrue(result == 30);
 	}
 }
